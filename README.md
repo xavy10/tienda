@@ -22,7 +22,11 @@ Ejercicio ejemplo implementando el framework Spring creando un sistema CRUD desa
 
 ## Pasos:
 
-1.- Crear base de datos con nombre tienda
+1.- Crear base de datos con nombre tienda. Para ello seguiremos los siguientes pasos:
+    *create database tienda;
+    
+*Nota:
+  Es mas que sificiente con crear la pura base de datos sin tablas, ya que la aplicacion con base a las entidades que cuenta, las creara por si sola.
 
 *Nota: 
   Puede cambiar pero se debe actualizar el archivo application.properties cambiando el nombre de la base.
